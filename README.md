@@ -1,4 +1,4 @@
-Meu nome é Bruna Yasmim Storio
+Meu nome é Sthefany 
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
